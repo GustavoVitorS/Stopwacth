@@ -1,0 +1,28 @@
+body{
+  background-color: #191919;
+  color: #eee;
+}
+
+.clock{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+button{
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.btn-rox{
+  background-color: #8A39E1;
+}
+
+.btn-blue{
+  background-color: #2666CF;
+}
+
+.btn-red{
+  background-color: #FF5677;
+}
